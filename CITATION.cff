@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Formal Verification of NASA-Related Neural Networks"
+type: software
+authors:
+  - family-names: Logsdon
+    given-names: Sara
+version: 1.0.0
+date-released: 2026-08-18
+url: "https://github.com/saralogsdon/neural-network-verification"
+repository-code: "https://github.com/saralogsdon/neural-network-verification"
+abstract: >-
+  Reproducible α,β-CROWN and Marabou verification demonstrations for
+  NASA MicroNet, NASA Airfoil Learning, a NASA-IMPACT text classifier,
+  and a NASA GIBS-inspired anomaly classifier.
+keywords:
+  - neural network verification
+  - alpha-beta-CROWN
+  - Marabou
+  - NASA
+  - formal methods
