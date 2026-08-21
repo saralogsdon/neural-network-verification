@@ -9,7 +9,7 @@ The notebook applies two independent neural-network verifiers—[α,β-CROWN](ht
 [![Open the notebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saralogsdon/neural-network-verification/blob/main/All_NN_Demos.ipynb)
 ### Paper
 
-📄 [Verification and Validation of AI-Enabled Systems](papers/V_V_Lit_Review.pdf)
+📄 [Formal Verification of NASA-Related Neural Networks](NASA_All_Demos.pdf)
 
 ## Case studies and results
 
