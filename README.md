@@ -7,6 +7,9 @@ This repository is a hands-on study of a simple question:
 The notebook applies two independent neural-network verifiers—[α,β-CROWN](https://github.com/Verified-Intelligence/alpha-beta-CROWN) and [Marabou](https://github.com/NeuralNetworkVerification/Marabou)—to four NASA or NASA-related case studies. The goal is not to label an entire model “safe.” Each experiment states a narrow property, runs both tools on the same verification boundary, and records what was actually proved.
 
 [![Open the notebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saralogsdon/neural-network-verification/blob/main/All_NN_Demos.ipynb)
+### Paper
+
+📄 [Verification and Validation of AI-Enabled Systems](papers/V_V_Lit_Review.pdf)
 
 ## Case studies and results
 
